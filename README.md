@@ -1,1 +1,1 @@
-# webdevLab3
+# webdevLab3The tags and structure used here are basic, so, try to complete as much as possible from memory. Use the image file showing how the formatting should look by turning the raw text file into an HTML file.
